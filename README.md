@@ -55,6 +55,10 @@ Lembre-se de inserir a chave criada ".ppk" clicando em "Auth" na lista disponibi
 
 Após finalizar todos os procedimentos na seção PuTTY, insira as credênciais "ec2-user" no terminal e aperte enter. Pronto! Sua máquina está rodando
 
+Pronto! Console iniciado
+
+<img width="960" alt="console_ativado" src="https://github.com/ragazziluis/ssh_no_EC2-S3M5/assets/110607385/b819faf8-c221-4a8d-8317-ab1cb072a180">
+
 <img width="842" alt="resultado_final2" src="https://github.com/ragazziluis/ssh_no_EC2-S3M5/assets/110607385/c43640ad-bc73-405e-bb36-23cf291c8709">
 
 Você também pode confirmar se a máquina está rodando tranquilamente, acessando diretamente pela AWS, como na imagem a seguir, a mensagem "sucess" estará visível:
